@@ -1,0 +1,83 @@
+These Windows services are started:
+
+   Application Information
+   Application Management
+   AtherosSvc
+   Avast Antivirus
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Bluetooth Support Service
+   Canon Inkjet Printer/Scanner/Fax Extended Survey Program
+   COM+ Event System
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Device Association Service
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Group Policy Client
+   HomeGroup Provider
+   Human Interface Device Access
+   IP Helper
+   JumpStart Push-Button Service
+   JumpStart Wi-Fi Protected Setup
+   Local Session Manager
+   Multimedia Class Scheduler
+   Network Connected Devices Auto-Setup
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Office Software Protection Platform
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Protexis Licensing V2
+   Protexis Licensing V2 x64
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SQL Server (SQLEXPRESS)
+   SQL Server VSS Writer
+   SSDP Discovery
+   Superfetch
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Telephony
+   Themes
+   Time Broker
+   UPnP Device Host
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connect Now - Config Registrar
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully.
+

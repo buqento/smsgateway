@@ -1,0 +1,24 @@
+@charset "utf-8";
+#paging_button ul{ width: 510px; padding:0px; margin:8px; display:inline; }
+
+#paging_button ul li {
+	-moz-border-radius: 3px 3px 3px 3px;
+	color: white;
+	float: left;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 13px;
+	font-weight: 700;
+	margin: 0 2px 0px;
+	padding: 5px 5px;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: none;
+	list-style-type:none;
+	width: 20px;
+	cursor:pointer;
+	display:inline;
+	background-attachment: scroll;
+	background-color: #999999;
+	background-image: none;
+	background-repeat: repeat;
+}
